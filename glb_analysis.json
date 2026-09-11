@@ -1,0 +1,311 @@
+{
+  "nodes": 39,
+  "meshes": 12,
+  "materials": 2,
+  "textures": 0,
+  "animations": 0,
+  "hierarchy": [
+    {
+      "name": "Sketchfab_model",
+      "hasMesh": false,
+      "meshName": null,
+      "children": [
+        {
+          "name": "root",
+          "hasMesh": false,
+          "meshName": null,
+          "children": [
+            {
+              "name": "GLTF_SceneRootNode",
+              "hasMesh": false,
+              "meshName": null,
+              "children": [
+                {
+                  "name": "outer ring:1_1",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_0",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_5",
+                          "hasMesh": true,
+                          "meshName": "Object_0",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "iner ring:1_3",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_2",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_8",
+                          "hasMesh": true,
+                          "meshName": "Object_1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:1_5",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_4",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_11",
+                          "hasMesh": true,
+                          "meshName": "Object_2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:2_7",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_6",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_14",
+                          "hasMesh": true,
+                          "meshName": "Object_3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:3_9",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_8",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_17",
+                          "hasMesh": true,
+                          "meshName": "Object_4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:4_11",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_10",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_20",
+                          "hasMesh": true,
+                          "meshName": "Object_5",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:5_13",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_12",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_23",
+                          "hasMesh": true,
+                          "meshName": "Object_6",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:6_15",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_14",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_26",
+                          "hasMesh": true,
+                          "meshName": "Object_7",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:7_17",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_16",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_29",
+                          "hasMesh": true,
+                          "meshName": "Object_8",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ball:8_19",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_18",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_32",
+                          "hasMesh": true,
+                          "meshName": "Object_9",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "cage:1_21",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_20",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_35",
+                          "hasMesh": true,
+                          "meshName": "Object_10",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "cage:2_23",
+                  "hasMesh": false,
+                  "meshName": null,
+                  "children": [
+                    {
+                      "name": "Solid1_22",
+                      "hasMesh": false,
+                      "meshName": null,
+                      "children": [
+                        {
+                          "name": "Object_38",
+                          "hasMesh": true,
+                          "meshName": "Object_11",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "nodeNames": [
+    "Sketchfab_model",
+    "root",
+    "GLTF_SceneRootNode",
+    "outer ring:1_1",
+    "Solid1_0",
+    "Object_5",
+    "iner ring:1_3",
+    "Solid1_2",
+    "Object_8",
+    "ball:1_5",
+    "Solid1_4",
+    "Object_11",
+    "ball:2_7",
+    "Solid1_6",
+    "Object_14",
+    "ball:3_9",
+    "Solid1_8",
+    "Object_17",
+    "ball:4_11",
+    "Solid1_10",
+    "Object_20",
+    "ball:5_13",
+    "Solid1_12",
+    "Object_23",
+    "ball:6_15",
+    "Solid1_14",
+    "Object_26",
+    "ball:7_17",
+    "Solid1_16",
+    "Object_29",
+    "ball:8_19",
+    "Solid1_18",
+    "Object_32",
+    "cage:1_21",
+    "Solid1_20",
+    "Object_35",
+    "cage:2_23",
+    "Solid1_22",
+    "Object_38"
+  ]
+}
